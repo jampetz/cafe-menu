@@ -1,6 +1,7 @@
 # Cafe menu
 
 ## [Live instance](https://jam-cafe-menu.netlify.app/)
+![image](https://i.imgur.com/HgG7EHC.png)
 
 ### Features:
 
